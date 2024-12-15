@@ -3,6 +3,6 @@
     "xmldoc": "1.0.0"
   },
   "renovate": {
-    "binarySource": "global"
+    "binarySource": "auto"
   }
 }
